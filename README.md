@@ -1,4 +1,5 @@
-[Hits_Assistent[1] (1).pdf](https://github.com/user-attachments/files/23632626/Hits_Assistent.1.1.pdf)
+[Hits_Assistent[1] (1).pdf](https://github.com/user-attachments/files/23646480/Hits_Assistent.1.1.pdf)
+
 
 ### Food Donation & Surplus Food Management System 
 This project focuses on creating a web-based platform that connects food donors with NGOs and 
