@@ -16,7 +16,7 @@ Additional tools/features used:
 
 ### Deployed Version of the Site 
 
-https://my-site-1uxfscvm-vasantjv2005.wix-vibe.com/
+https://my-site-1uxfscvm-vasantjv2005.wix-vibe.com
 
 ### Prompt used to build a website 
 ```
@@ -88,6 +88,10 @@ Add a small blog section sharing stories, awareness posts, and donor impact.
 Overall Goal:
 Create a functional and visually appealing platform that makes food donation simple, accessible, and efficient for society, using Wix’s no-code tools and database capabilities.”**
 ```
+
+#### PPT PRESENTATION
+[Food-Donation-and-Surplus-Food-Management-System.pptx](https://github.com/user-attachments/files/23646056/Food-Donation-and-Surplus-Food-Management-System.pptx)
+
 
 ### Screenshots of the Website 
 <img width="1852" height="1052" alt="image" src="https://github.com/user-attachments/assets/d30dc2fc-7056-4145-8f88-de316d81feff" />
